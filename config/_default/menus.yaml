@@ -4,21 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: Dónde estamos
+    url: regiones
     weight: 10
-  - name: News
-    url: post
+  - name: Prensa
+    url: prensa
     weight: 20
-  - name: People
-    url: people
+  - name: Nuestro trabajo
+    url: trabajos
     weight: 30
-  - name: Events
-    url: event
+  - name: Equipo
+    url: equipo
     weight: 40
-  - name: Publications
-    url: publication
+  - name: Galería de Imágenes
+    url: galeria
     weight: 50
-  - name: Contact
-    url: contact
+  - name: Publicaciones
+    url: publicaciones
     weight: 60

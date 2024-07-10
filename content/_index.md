@@ -7,15 +7,19 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: Red de Mujeres Víctimas y profesionales
       image:
-        filename: welcome.jpg
+        filename: Logo_Red.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        La **Red de mujeres Víctimas y Profesionales** es una ONG que xxxxxx.
+
+  - block: markdown
+    content:
+      title: Nuestra Historia
+      subtitle: ''
+      text:
   
   - block: collection
     content:
@@ -36,25 +40,6 @@ sections:
       view: card
       columns: '1'
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
     content:
