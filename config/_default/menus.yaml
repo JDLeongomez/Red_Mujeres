@@ -22,3 +22,6 @@ main:
   - name: Publicaciones
     url: publicaciones
     weight: 60
+  - name: Contacto
+    url: '#contacto'
+    weight: 70
