@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        La **Red de mujeres Víctimas y Profesionales** es una ONG que xxxxxx.
+        La **Asociación Red de Mujeres Víctimas y Profesionales** (**R.M.V.P.**) es una organización de mujeres víctimas de Violencia Sexual, defensora de los Derechos Humanos, que promueve el empoderamiento de las víctimas de este delito en el marco del conflicto armado y fuera de él.
 
   - block: markdown
     content:
