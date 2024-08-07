@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Ángela Maria Escobar
+title: Esther Judith Ospina Álvarez
 
 # Full Name (for SEO)
-first_name: Ángela Maria
-last_name: Escobar
+first_name: Esther Judith
+last_name: Ospina Álvarez
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Vicepresidenta
+role: Tesorera
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
 #    url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Vicepresidenta
+bio: Tesorera
 
 interests:
 #  - Artificial Intelligence
@@ -42,12 +42,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:coordinacion@redmujeresvisiblemente.org'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/angela-mar%C3%ADa-escobar-v%C3%A1squez-063562129/
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:coordinacion@redmujeresvisiblemente.org'
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/in/angela-mar%C3%ADa-escobar-v%C3%A1squez-063562129/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,9 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Dirección
-#  - Representante Legal
-#  - Equipo Administrativo
+  - Equipo Administrativo
   - Consejo Directivo
-#  - Voluntarias
 ---
+
