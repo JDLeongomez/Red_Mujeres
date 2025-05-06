@@ -7,9 +7,9 @@ main:
   - name: Dónde estamos
     url: regiones
     weight: 10
-  - name: Prensa
-    url: prensa
-    weight: 20
+#  - name: Prensa
+#    url: prensa
+#    weight: 20
   - name: Nuestro trabajo
     url: trabajos
     weight: 30

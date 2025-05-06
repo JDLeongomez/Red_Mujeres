@@ -45,9 +45,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:coordinacion@redmujeresvisiblemente.org'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/angela-mar%C3%ADa-escobar-v%C3%A1squez-063562129/
+#  - icon: linkedin
+#    icon_pack: fab
+#    link: https://www.linkedin.com/in/angela-mar%C3%ADa-escobar-v%C3%A1squez-063562129/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
