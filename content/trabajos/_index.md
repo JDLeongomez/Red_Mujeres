@@ -19,13 +19,13 @@ Trabajamos: equidad de género y empoderamiento femenino con enfoque de derechos
 ## ¿Dónde estamos?
 
 La **Asociación Red de Mujeres Víctimas y Profesionales** desarrolla sus actividades en nueve regiones del país:  
-* (i) Antioquia,  
-* (ii) Meta,  
-* (iii) Nariño, 
-* (iv) Bolívar,  
-* (v) Norte de Santander,  
-* (vi) Guajira  
-* (vii) Bogotá,  
-* (viii) Soacha.  
+* Antioquia,  
+* Meta,  
+* Nariño, 
+* Bolívar,  
+* Norte de Santander,  
+* Guajira,
+* Bogotá,  
+* Soacha.  
 
 Además, la Red es integrante y fundadora del Movimiento global de víctimas y sobrevivientes de violencia sexual, en el que participan representantes de 14 países de todos los continentes. Este movimiento global tiene el apoyo de la fundación del Dr. Denis Mukwege (premio nobel de paz 2018).
