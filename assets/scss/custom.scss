@@ -1,0 +1,126 @@
+/* =========================================================
+   Hugo Blox – Custom styles
+   Site: Red de Mujeres Víctimas y Profesionales
+   ========================================================= */
+
+/* -------------------------
+   Brand colour palette
+   ------------------------- */
+
+$brand-primary: #AA2E65;   /* Logo / primary */
+$brand-light:   #f2dbe6;   /* Soft highlight */
+$brand-dark:    #7a1f47;   /* Hover / emphasis */
+$brand-muted:   #c88aa5;   /* Secondary accent */
+
+
+/* =========================================================
+   HEADER / NAVBAR
+   ========================================================= */
+
+.navbar {
+  background-color: $brand-primary !important;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* Brand (logo / site title) */
+.navbar-brand {
+  color: #ffffff !important;
+  font-weight: 600;
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus {
+  color: $brand-light !important;
+}
+
+/* Navbar links */
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+/* Hover / focus */
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: $brand-light !important;
+  text-decoration: underline;
+}
+
+/* Active link */
+.navbar .nav-link.active {
+  color: #ffffff !important;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+/* Mobile menu toggler */
+.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.6);
+}
+
+.navbar-toggler-icon {
+  filter: invert(100%);
+}
+
+
+/* =========================================================
+   GLOBAL LINKS & TEXT ACCENTS
+   ========================================================= */
+
+a {
+  color: $brand-primary;
+  text-decoration-color: $brand-muted;
+}
+
+a:hover,
+a:focus {
+  color: $brand-dark;
+  text-decoration-color: $brand-dark;
+}
+
+
+/* =========================================================
+   BUTTONS
+   ========================================================= */
+
+.btn-primary {
+  background-color: $brand-primary;
+  border-color: $brand-primary;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: $brand-dark;
+  border-color: $brand-dark;
+}
+
+.btn-outline-primary {
+  color: $brand-primary;
+  border-color: $brand-primary;
+}
+
+.btn-outline-primary:hover,
+.btn-outline-primary:focus {
+  background-color: $brand-primary;
+  border-color: $brand-primary;
+  color: #ffffff;
+}
+
+
+/* =========================================================
+   HIGHLIGHTS & UTILITIES
+   ========================================================= */
+
+mark,
+.highlight {
+  background-color: $brand-light;
+  color: $brand-dark;
+  padding: 0.15em 0.25em;
+  border-radius: 0.15rem;
+}
+
+/* Optional: section dividers */
+hr {
+  border-top: 1px solid $brand-light;
+}

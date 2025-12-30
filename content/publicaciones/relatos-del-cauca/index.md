@@ -1,5 +1,6 @@
 ---
 title: 'Relatos del Cauca'
+share: false
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

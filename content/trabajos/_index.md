@@ -15,3 +15,17 @@ Buscamos asistir emocionalmente a las víctimas, instruirlas jurídicamente y ap
 ## ¿Qué temas trabajamos?
 
 Trabajamos: equidad de género y empoderamiento femenino con enfoque de derechos para atender las causas estructurales de la VS con énfasis en ideas y creencias, nuevas masculinidades; dinámicas regionales e impactos de la VS en la vida de niñas y mujeres: emocionales, salud sexual y reproductiva, participación y protección; las relaciones abusivas de poder causa de VS como mecanismo de terror en  ámbitos privado y público, y en la guerra; injusticia testimonial (institucional y social),  a través de tres estrategias: i) Prevención: en comunidades y colegios desarrollamos actividades formativas (talleres, entrenamiento, lúdica) para reconocer relaciones y contextos de  riesgo, diseñamos guías temáticas sobre bienestar emocional y físico, aprendizaje de derechos y conocimiento de rutas y oferta institucional; ii) justicia ordinaria y transicional, diseñamos e implementamos el modelo de Jornadas de Denuncia Colectiva para que, en un entorno seguro y amable, las mujeres denuncien ante la Fiscalía y Defensoría del Pueblo, y simultáneamente reciban capacitación sobre oferta institucional y derechos, además reciben apoyo psicosocial; iii) incidencia y movilización social para mejorar la oferta institucional, generar más conciencia social sobre las causas e impactos de este delito, a través de campañas y estrategias de difusión (redes, videos, fotografías, exposición fotográfica, relatos literarios).
+
+## ¿Dónde estamos?
+
+La **Asociación Red de Mujeres Víctimas y Profesionales** desarrolla sus actividades en nueve regiones del país:  
+* (i) Antioquia,  
+* (ii) Meta,  
+* (iii) Nariño, 
+* (iv) Bolívar,  
+* (v) Norte de Santander,  
+* (vi) Guajira  
+* (vii) Bogotá,  
+* (viii) Soacha.  
+
+Además, la Red es integrante y fundadora del Movimiento global de víctimas y sobrevivientes de violencia sexual, en el que participan representantes de 14 países de todos los continentes. Este movimiento global tiene el apoyo de la fundación del Dr. Denis Mukwege (premio nobel de paz 2018).

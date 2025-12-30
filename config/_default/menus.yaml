@@ -4,24 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Dónde estamos
-    url: regiones
+  - name: Nuestro trabajo
+    url: trabajos
     weight: 10
+  - name: Nuestra historia
+    url: historia
+    weight: 20
+  - name: Galería de Imágenes
+    url: galeria
+    weight: 30
+  - name: Publicaciones
+    url: publicaciones
+    weight: 40
+  - name: Hospital de la Paz
+    url: hospital
+    weight: 50
 #  - name: Prensa
 #    url: prensa
 #    weight: 20
-  - name: Nuestro trabajo
-    url: trabajos
-    weight: 30
-  - name: Equipo
-    url: equipo
-    weight: 40
-  - name: Galería de Imágenes
-    url: galeria
-    weight: 50
-  - name: Publicaciones
-    url: publicaciones
-    weight: 60
-  - name: Contacto
-    url: '#contacto'
-    weight: 70
+# - name: Equipo
+#   url: equipo
+#   weight: 40
+# - name: Contacto
+#   url: '#contacto'
+#   weight: 70
