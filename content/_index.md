@@ -93,6 +93,32 @@ sections:
 #      view: citation
 #      columns: '1'
 
+  - block: markdown
+    content:
+      title: Nos han apoyado
+      subtitle: ''
+      text: |
+        <div class="supporters-grid">
+          <a href="https://www.gov.uk/world/organisations/british-embassy-colombia.es-419" target="_blank" rel="noopener">
+            <img src="/media/logos/british-embassy-col.png" alt="British Embassy Colombia">
+          </a>
+          <a href="https://www.iom.int/es" target="_blank" rel="noopener">
+            <img src="/media/logos/oim.png" alt="OIM">
+          </a>
+          <a href="https://www.diaconia.bo" target="_blank" rel="noopener">
+            <img src="/media/logos/diaconia.png" alt="Diaconía IFD">
+          </a>
+          <a href="https://minciencias.gov.co" target="_blank" rel="noopener">
+            <img src="/media/logos/minciencias.png" alt="Minciecnias">
+          </a>
+          <a href="https://www.mukwegefoundation.org" target="_blank" rel="noopener">
+            <img src="/media/logos/mukwege-foundation.png" alt="Mukwege Foundation">
+          </a>
+          <a href="https://www.oxfamcolombia.org" target="_blank" rel="noopener">
+            <img src="/media/logos/oxfam.png" alt="Oxfam">
+          </a>
+        </div>
+        
   - block: contact
     id: contacto
     content:
@@ -135,31 +161,5 @@ sections:
       #    captcha: false
     design:
       columns: '1'
-  
-  - block: markdown
-    content:
-      title: Nos han apoyado
-      subtitle: ''
-      text: |
-        <div class="supporters-grid">
-          <a href="https://www.gov.uk/world/organisations/british-embassy-colombia.es-419" target="_blank" rel="noopener">
-            <img src="/media/logos/british-embassy-col.png" alt="British Embassy Colombia">
-          </a>
-          <a href="https://www.iom.int/es" target="_blank" rel="noopener">
-            <img src="/media/logos/oim.png" alt="OIM">
-          </a>
-          <a href="https://www.diaconia.bo" target="_blank" rel="noopener">
-            <img src="/media/logos/diaconia.png" alt="Diaconía IFD">
-          </a>
-          <a href="https://minciencias.gov.co" target="_blank" rel="noopener">
-            <img src="/media/logos/minciencias.png" alt="Minciecnias">
-          </a>
-          <a href="https://www.mukwegefoundation.org" target="_blank" rel="noopener">
-            <img src="/media/logos/mukwege-foundation.png" alt="Mukwege Foundation">
-          </a>
-          <a href="https://www.oxfamcolombia.org" target="_blank" rel="noopener">
-            <img src="/media/logos/oxfam.png" alt="Oxfam">
-          </a>
-        </div>
 
 ---
