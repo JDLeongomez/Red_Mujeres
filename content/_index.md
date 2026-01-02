@@ -142,7 +142,7 @@ sections:
       subtitle: ''
       text: |
         <div class="supporters-grid">
-          <a href="https://www.gov.uk/world/organisations/british-embassy-colombia" target="_blank" rel="noopener">
+          <a href="https://www.gov.uk/world/organisations/british-embassy-colombia.es-419" target="_blank" rel="noopener">
             <img src="/media/logos/british-embassy-col.png" alt="British Embassy Colombia">
           </a>
           <a href="https://www.iom.int/es" target="_blank" rel="noopener">
