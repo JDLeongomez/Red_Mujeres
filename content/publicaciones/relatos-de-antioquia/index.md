@@ -1,5 +1,5 @@
 ---
-title: 'Relatos del Cauca'
+title: 'Relatos de Antioquia'
 share: false
 
 # Authors
@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
  - name: Fuente
-   url: 'https://grupolastroyanas.wixsite.com/troyanas/relatos-del-cauca'
+   url: 'https://grupolastroyanas.wixsite.com/troyanas/relatos-de-antioquia'
 
 url_pdf: ''
 url_code: ''

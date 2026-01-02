@@ -5,10 +5,14 @@ title: Nuestro trabajo
 view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: 'Red de Mujeres Víctimas y prefesionales'
-  image: 'Banner Red de mujeres Víctimas y Profesionales.jpg'
+# banner:
+#  caption: 'Red de Mujeres Víctimas y prefesionales'
+#  image: 'Banner Red de mujeres Víctimas y Profesionales.jpg'
 ---
+
+<div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="Ejes estratégicos de trabajo red" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genially.com/69544e8c8a83802e6c5133b9" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
+
+<br>
 
 Buscamos asistir emocionalmente a las víctimas, instruirlas jurídicamente y apoyarlas políticamente para que puedan exigir reparación y justicia efectiva a la institucionalidad colombiana. Asimismo, trabajamos capacitando a jóvenes en colegios o en condición de deserción escolar con el objetivo de que puedan tomar consciencia de las consecuencias y repercusiones sociales de este delito. Además, buscamos influir en las dinámicas de los entornos seguros y protectores para las mujeres, niñas, niños, jóvenes y adolescentes con el fin de prevenir la violencia sexual y la violencia de género, además de fomentar el desarrollo y la consolidación de la paz en Colombia.
 

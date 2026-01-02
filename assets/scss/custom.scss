@@ -124,3 +124,30 @@ mark,
 hr {
   border-top: 1px solid $brand-light;
 }
+
+/* =========================================================
+   Home – Supporters / Allies
+   ========================================================= */
+
+.supporters-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 2.5rem;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.supporters-grid img {
+  max-height: 70px;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+  filter: grayscale(50%);
+  opacity: 0.85;
+  transition: all 0.3s ease;
+}
+
+.supporters-grid img:hover {
+  filter: grayscale(0%);
+  opacity: 1;
+}

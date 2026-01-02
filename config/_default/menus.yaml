@@ -4,21 +4,35 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: Quiénes somos
+    weight: 10  
   - name: Nuestro trabajo
-    url: trabajos
+    url: Productos
     weight: 10
+    parent: Quiénes somos
   - name: Nuestra historia
     url: historia
     weight: 20
-  - name: Galería de Imágenes
-    url: galeria
+    parent: Quiénes somos
+  - name: Productos
     weight: 30
   - name: Publicaciones
     url: publicaciones
+    weight: 30
+    parent: Productos
+  - name: Videos
+    url: videos
     weight: 40
+    parent: Productos
   - name: Hospital de la Paz
     url: hospital
     weight: 50
+  - name: Galería de Imágenes
+    url: galeria
+    weight: 60
+  - name: Donaciones
+    url: donaciones
+    weight: 70
 #  - name: Prensa
 #    url: prensa
 #    weight: 20
