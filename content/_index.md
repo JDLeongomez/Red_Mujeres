@@ -123,8 +123,8 @@ sections:
     id: contacto
     content:
       title: Contacto
-      text: |-
-        Para información general por favor contactar a {{% mention "angela-maria-escobar" %}}.
+#      text: |-
+#        Para información general por favor contactar a Angela Maria Escobar.
       email: coordinacion@redmujeresvisiblemente.org
       phone: (+57) 312 200 4935
       address:

@@ -7,7 +7,7 @@ main:
   - name: Quiénes somos
     weight: 10  
   - name: Nuestro trabajo
-    url: Productos
+    url: trabajo
     weight: 10
     parent: Quiénes somos
   - name: Nuestra historia

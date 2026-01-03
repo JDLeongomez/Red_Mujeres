@@ -65,6 +65,41 @@ $brand-muted:   #c88aa5;   /* Secondary accent */
 
 
 /* =========================================================
+   Mobile navbar dropdown (hamburger menu only)
+   ========================================================= */
+
+/* Only apply these styles on small screens (menu collapses) */
+@media (max-width: 991.98px) {
+
+  /* When the hamburger menu is opened, Bootstrap adds .show */
+  .navbar .navbar-collapse.show {
+    background-color: #ffffff;
+    padding: 1rem;
+    margin-top: 0.75rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+  }
+
+  /* Links inside the opened mobile menu */
+  .navbar .navbar-collapse.show .nav-link {
+    color: $brand-primary !important;
+  }
+
+  .navbar .navbar-collapse.show .nav-link:hover,
+  .navbar .navbar-collapse.show .nav-link:focus {
+    color: $brand-dark !important;
+    text-decoration: underline;
+  }
+
+  .navbar .navbar-collapse.show .nav-link.active,
+  .navbar .navbar-collapse.show .nav-link[aria-current="page"] {
+    color: $brand-dark !important;
+    font-weight: 600;
+  }
+}
+
+
+/* =========================================================
    GLOBAL LINKS & TEXT ACCENTS
    ========================================================= */
 
@@ -150,4 +185,11 @@ hr {
 .supporters-grid img:hover {
   filter: grayscale(0%);
   opacity: 1;
+}
+
+/* =========================================================
+   Hide site title text in navbar, keep logo
+   ========================================================= */
+.navbar-brand span {
+  display: none;
 }
