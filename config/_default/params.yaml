@@ -116,3 +116,12 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+
+# Assets
+
+assets:
+  css:
+    - vendor/glightbox/glightbox.min.css
+  js:
+    - vendor/glightbox/glightbox.min.js
+    - gallery-glightbox-init.js

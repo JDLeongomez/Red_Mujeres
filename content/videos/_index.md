@@ -10,6 +10,16 @@ banner:
   image: ''
 ---
 
+### Justicia transicional y violencia sexual: Casos Perú y Ecuador
+
+{{< youtube 2smFGpNYWgU >}}
+
+
+### La reparación es el camino del perdón
+
+{{< youtube 722lktpBaVA >}}
+
+
 ### Carta a mamá
 
 {{< youtube 7tKRe4n4FYw >}}

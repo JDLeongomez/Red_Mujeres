@@ -193,3 +193,62 @@ hr {
 .navbar-brand span {
   display: none;
 }
+
+
+/* =========================================================
+   Custom hero with iframe – full width
+   ========================================================= */
+
+.hero-wide {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hero-custom {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+/* Responsive iframe wrapper */
+.iframe-wrapper {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+
+.iframe-wrapper iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Stack ONLY on mobile */
+@media (max-width: 991.98px) {
+  .hero-custom {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* =========================================================
+   Image gallery grid
+   ========================================================= */
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+.gallery-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.25rem;
+  cursor: zoom-in;
+}

@@ -5,15 +5,34 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
+    design:
+      columns: '1'
     content:
-      title:
-      image:
-        filename: Logo_Red.jpg
+      title: ''
+      subtitle: ''
       text: |
-        <br>
-        
-        La **Asociación Red de Mujeres Víctimas y Profesionales** (**R.M.V.P.**) es una organización de mujeres víctimas de Violencia Sexual, defensora de los Derechos Humanos, que promueve el empoderamiento de las víctimas de este delito en el marco del conflicto armado y fuera de él.
+        <div class="hero-custom">
+          <div class="hero-text">
+            <p>
+              La <strong>Asociación Red de Mujeres Víctimas y Profesionales</strong>
+              (<strong>R.M.V.P.</strong>) es una organización de mujeres víctimas de
+              Violencia Sexual, defensora de los Derechos Humanos, que promueve el
+              empoderamiento de las víctimas de este delito en el marco del
+              conflicto armado y fuera de él.
+            </p>
+          </div>
+          <div class="hero-media">
+            <div class="iframe-wrapper">
+              <iframe
+                title="Collage Red"
+                src="https://view.genially.com/69599a30af1831ae6ec403e2"
+                allowfullscreen
+                loading="lazy"
+              ></iframe>
+            </div>
+          </div>
+        </div>
 
   - block: slider
     content:
@@ -48,7 +67,7 @@ sections:
           icon_pack: fab
           text: Ver video
           url: https://www.youtube.com/watch?v=a11xuWAsebk&t=7s&ab_channel=ConcéntrikaMedios
-      - title: Nuestros eventos
+      - title: Para nosotras, pero con nosotras
         content: ''
         align: right
         background:
@@ -142,11 +161,15 @@ sections:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
       # appointment_url:
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+      contact_links:
+        - icon: instagram
+          icon_pack: fab
+          name: Instagram
+          link: 'https://discourse.gohugo.io'
+        - icon: facebook
+          icon_pack: fab
+          name: Facebook
+          link: 'https://www.facebook.com/RedMujeresVP'
     
       # Automatically link email and phone or display as text?
       autolink: true
