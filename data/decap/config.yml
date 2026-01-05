@@ -1,0 +1,18 @@
+backend:
+  name: github
+  repo: JDLeongomez/Red_Mujeres
+  branch: main
+
+media_folder: static/uploads
+public_folder: /uploads
+
+collections:
+  - name: home
+    label: Página de inicio
+    files:
+      - name: inicio
+        label: Inicio
+        file: content/_index.md
+        fields:
+          - { label: Título, name: title, widget: string }
+          - { label: Contenido, name: body, widget: markdown }
