@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.125.7"
+  HUGO_VERSION = "0.127.0"
   HUGO_ENABLEGITINFO = "true"
   NODE_VERSION = "22"
 
@@ -20,3 +20,8 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
